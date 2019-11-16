@@ -1,0 +1,7 @@
+#Sat Nov 16 06:13:49 IST 2019
+base.0=D\:\\Downloads\\SmartGate\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Downloads\\SmartGate\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

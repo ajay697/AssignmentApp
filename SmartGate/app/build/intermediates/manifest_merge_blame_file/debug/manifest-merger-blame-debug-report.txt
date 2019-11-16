@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.www.smartgate"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:5:5-26:19
+12        android:allowBackup="true"
+12-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:12:9-13:65
+22            android:name="com.example.www.smartgate.ProfileActivity"
+22-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:12:19-50
+23            android:theme="@style/NoActionBar" />
+23-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:13:19-53
+24        <activity
+24-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:14:9-16:50
+25            android:name="com.example.www.smartgate.SignInActivity"
+25-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:15:13-43
+26            android:theme="@style/NoActionBar" />
+26-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:16:13-47
+27        <activity
+27-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:17:9-25:20
+28            android:name="com.example.www.smartgate.MainActivity"
+28-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:18:13-41
+29            android:theme="@style/NoActionBar" >
+29-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:19:13-47
+30            <intent-filter>
+30-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:20:13-24:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:21:17-69
+31-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:21:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:23:17-77
+33-->D:\Downloads\SmartGate\app\src\main\AndroidManifest.xml:23:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
