@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gradient_radius">0dp</dimen>
+
+<!--    dots linear layout-->
+    <dimen name="dots_layout_width">54dp</dimen>
+    <dimen name="dots_layout_height">6dp</dimen>
+    <dimen name="dots_layout_margin">54dp</dimen>
+    <dimen name="image_height">6dp</dimen>
+    <dimen name="image_width">6dp</dimen>
+    <dimen name="image_left_margin">6dp</dimen>
+
+    <dimen name="description_text_size">14sp</dimen>
+
+<!--    text layout-->
+    <dimen name="text_margin_top">39dp</dimen>
+    <dimen name="text_margin_left">44dp</dimen>
+    <dimen name="text_margin_right">44dp</dimen>
+    <dimen name="text_padding_botton">38dp</dimen>
+    <dimen name="text_heder_size">40sp</dimen>
+    <dimen name="text_footer_size">30sp</dimen>
+<!--    button margin-->
+    <dimen name="button_margin">0dp</dimen>
+</resources>

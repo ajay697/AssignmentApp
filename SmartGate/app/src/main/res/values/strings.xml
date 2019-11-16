@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Gate</string>
+
+    <string name="app_name1">Smart</string>
+    <string name="app_name2">Gate</string>
+    <!--    sign in button -->
+    <string name="sign_in_text">SIGN IN</string>
+
+
+    <string name="text_moto">For Smart Socities</string>
+    <string name="description_text">India\'s Fav App for Socities</string>
+</resources>

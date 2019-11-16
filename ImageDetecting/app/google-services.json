@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733021464698",
+    "firebase_url": "https://machine-learning-a0c5d.firebaseio.com",
+    "project_id": "machine-learning-a0c5d",
+    "storage_bucket": "machine-learning-a0c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733021464698:android:99b05c2d1ed2941e3473c3",
+        "android_client_info": {
+          "package_name": "com.example.www.imagedetecting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733021464698-cmbvlo8t7bgb854erjr7vgndh65o315g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgqNmmnxUlC9MCGG52l_mOxd5vbsVeVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733021464698-cmbvlo8t7bgb854erjr7vgndh65o315g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

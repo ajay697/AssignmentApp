@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3cd3ad</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="gradient_start">#4CB8C4</color>
+    <color name="gradient_end">#3CD3AD</color>
+
+    <color name="gate_text_color">#4CB8C4</color>
+
+    <color name="toolbar_arrow">#4CB8C4</color>
+
+<!--    sign button text color-->
+    <color name="sign_in_text_color">#ffffff</color>
+    <color name="description_text_color">#4CB8C4</color>
+    <color name="text_header_color">#000000</color>
+</resources>
